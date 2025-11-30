@@ -7,5 +7,5 @@
 🎹 Self-taught pianist who enjoys blending creativity with technology — currently experimenting with AI in music and interactive piano apps.<br/>
 📫 How to reach me: tsbletele@gmail.com<br/>
 
-[![Tsebo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsbletele)](https://github.com/anuraghazra/github-readme-stats)
+[![Tsebo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsbletele)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsbletele&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
