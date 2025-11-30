@@ -1,6 +1,6 @@
 
 
-### Hi, I'm Tsebo
+### Hi, I'm Tsebo!
 
 👨‍💻 Software Developer who enjoys turning real-world problems into clean, functional applications. Always building, improving, and exploring better ways to write elegant code.<br/>
 🎓 Studied Computer & Information Sciences at IIE MSA, South Africa, specialising in Application Development.<br/>
