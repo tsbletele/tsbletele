@@ -7,4 +7,4 @@
 🎹 Self-taught pianist who enjoys blending creativity with technology — currently experimenting with AI in music and interactive piano apps.<br/>
 📫 How to reach me: tsbletele@gmail.com<br/>
 
-[![Tsebo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsbletele&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Tsebo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsbletele)](https://github.com/anuraghazra/github-readme-stats)
